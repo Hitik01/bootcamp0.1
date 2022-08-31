@@ -1,0 +1,23 @@
+p {
+    border: 2px solid powderblue;
+    padding: 30px;
+  }
+table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  img {
+  margin:auto;
+  width: 640px; 
+  padding: 50px;
+  color: #33475b;    
+  }
+  body {
+    background-image: url("image.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: cover;
+  }
+  h1 {
+    text-align:center ;
+  }
